@@ -1,0 +1,9 @@
+language: php
+
+php:
+  - 7.1.9
+
+mysql:
+  database: arnallight
+  username: root
+  encoding: utf8
